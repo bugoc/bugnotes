@@ -5,7 +5,7 @@
 ### 1.1 Kubernetes 组件
 
 &emsp; &emsp;Kubernetes 集群集群[组件](https://kubernetes.io/zh-cn/docs/concepts/overview/components/)至少有一个主节点（Master）和一个工作节点（Node），下图是 Kubernetes 集群部署示意图。
-![kubernetes_ha](kubernetes/Kuberentes_ha_20220810094641.png)
+![kubernetes_ha](images/Kuberentes_ha_20220810094641.png)
 
 ### 1.2 Kubernetes 安装列表
 
